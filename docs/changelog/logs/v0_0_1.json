@@ -1,0 +1,19 @@
+{
+  "@webex/test-webex-node": {
+    "0.0.1-next.1": {
+      "published_date": 1754303559223,
+      "commits": {
+        "cad4a83dd0cca05a143cae24f2f1462a974a6e84": "fix: update internal media core to 2.18.5 (#4420)"
+      },
+      "alongWith": {
+        "@webex/internal-plugin-voicea": "3.8.1-next.28",
+        "@webex/media-helpers": "3.8.1-next.14",
+        "@webex/plugin-cc": "3.8.1-next.27",
+        "@webex/plugin-meetings": "3.8.1-next.28",
+        "@webex/calling": "3.8.1-next.20",
+        "webex": "3.8.1-next.41",
+        "webex-node": "3.8.1-next.28"
+      }
+    }
+  }
+}
